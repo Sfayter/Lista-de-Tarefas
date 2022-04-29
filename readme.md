@@ -1,1 +1,1 @@
-<img src = dom-exemplo.png>
+<img src = DOM-exemplo.png>
